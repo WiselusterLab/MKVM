@@ -1,5 +1,5 @@
 # MKVM
-Mosaic's Micro Kernel Virtual Machine for platform-independence
+Mosaic's Micro Kernel Virtual Machine
 
 Note:<br>
 <i>i</i> --- immdeiate value<br>
