@@ -12,8 +12,8 @@ Note:<br>
 <i>r2m</i> --- register to memory<br>
 <i>m2m</i> --- memory to memory<br>
 
-MKVM v0.0.1 will support the following opcodes (format opcode (operand)):<br>
-<i>mov</i> (i2r, r2r) --- move/copy<br>
-<i>xch</i> (r2r) --- exchange<br>
+MKVM v0.0.1 will support the following opcodes (format: opcode {operand}):<br>
+<i>mov</i> {i2r, r2r} --- move/copy<br>
+<i>xch</i> {r2r} --- exchange<br>
 
 ... to be continued ...<br>
