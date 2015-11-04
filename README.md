@@ -1,7 +1,7 @@
 # MKVM
 Mosaic's Micro Kernel Virtual Machine
 
-Note:<br>
+Note for abbreviations:<br>
 <i>i</i> --- immdeiate value<br>
 <i>r</i> --- register<br>
 <i>m</i> --- memory<br>
@@ -13,7 +13,7 @@ Note:<br>
 <i>m2m</i> --- memory to memory<br>
 
 MKVM v0.0.1 will support the following opcodes (format: opcode {operand}):<br>
-<i>mov</i> {i2r, r2r} --- move/copy<br>
-<i>xch</i> {r2r} --- exchange<br>
+<i>mov</i> {<i>i2r</i>, <i>r2r</i>} --- move/copy<br>
+<i>xch</i> {<i>r2r</i>} --- exchange<br>
 
 ... to be continued ...<br>
